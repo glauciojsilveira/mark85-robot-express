@@ -58,3 +58,5 @@ Do login
     User should be logged in    ${user}[name]
 
 
+#GlaucioJS
+
